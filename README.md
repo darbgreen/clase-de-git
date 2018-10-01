@@ -1,0 +1,2 @@
+# clase-de-git
+repetición
